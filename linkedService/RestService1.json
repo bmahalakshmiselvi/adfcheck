@@ -1,0 +1,13 @@
+{
+	"name": "RestService1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "http://127.0.0.1:5000/readcolumnsdata?source=Excel&file_name=/Users/mbalasu/Desktop/Projects/Python/DA_for_DQ/DW_scrap.xlsx",
+			"enableServerCertificateValidation": false,
+			"authenticationType": "Anonymous"
+		}
+	}
+}

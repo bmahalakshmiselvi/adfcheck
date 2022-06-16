@@ -1,0 +1,9 @@
+{
+	"name": "mbalasuDemoDataFactory",
+	"location": "EastUS",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7197806d-dad0-4e74-bc53-56a8e7edf308",
+		"tenantId": "7213d3d3-79e7-41c9-82ab-972b5a075543"
+	}
+}
